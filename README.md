@@ -1,2 +1,3 @@
-# Stop-Watch-iOS-
-This is project of Swift-30
+# Stop Watch (iOS)
+
+## 30 Days of Swuft project-1
